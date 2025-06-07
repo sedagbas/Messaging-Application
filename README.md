@@ -5,4 +5,4 @@ It is a simple messaging system developed in LabVIEW for educational and testing
 
 The application is still under development.
 
-NOTE: Run User1 first before starting User2.
+NOTE: Run user1 first before starting user2.
